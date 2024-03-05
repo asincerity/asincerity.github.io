@@ -26,7 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "这是一个科研，兴趣，生活探索的个人博客"
   location         : "BeiJing，China"
-  employer         : "Institute of Chemistry, Chinese Academy of Sciences"
+  employer         : "Institute of Chemistry
+                       Chinese Academy of Sciences"
   uri              : "http://www.iccas.ac.cn"
   email            : "15546659971@163.com" 
 
