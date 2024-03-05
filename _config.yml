@@ -12,7 +12,7 @@ title                    : "Xiaolong Liu Blog"
 title_separator          : "-"
 name                     : &name "Xiaolong Liu"
 description              : &description "这是一个科研，兴趣，生活探索的个人博客"
-url                      : https://academicpages.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asincerity.github.io// # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asincerity/asincerity.github.io"
 
